@@ -20,7 +20,7 @@ public class Rectangle {
         d = Math.sqrt((sideA*sideA)+(sideB*sideB));
         return d;
     }
-    
+
     public static void main(String[] args) {
 
         //https://www.samouczekprogramisty.pl/zestaw-cwiczen-dla-poczatkujacych-programistow/
